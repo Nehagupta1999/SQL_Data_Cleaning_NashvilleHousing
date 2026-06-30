@@ -1,4 +1,4 @@
-**# SQL_Data_Cleaning_NashvilleHousing**
+**SQL_Data_Cleaning_NashvilleHousing**
 
 **Project Overview**
 
