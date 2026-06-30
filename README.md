@@ -42,3 +42,13 @@ This project focuses on cleaning and preparing the Nashville Housing dataset usi
 - CASE
 - ROW_NUMBER()
 - Common Table Expressions (CTE)
+
+## Project Workflow
+
+- Imported Excel dataset into SQL Server
+- Standardized date formats
+- Populated missing property addresses
+- Split address columns
+- Standardized categorical values
+- Removed duplicate records
+- Dropped unnecessary columns
